@@ -102052,19 +102052,22 @@ url = "https://github.com/mirror520/first-web3"
 url = "https://github.com/mirrorworld-universe/cascade-protocol"
 
 [[repo]]
+url = "https://github.com/mirrorworld-universe/hypergrid-grid"
+
+[[repo]]
 url = "https://github.com/mirrorworld-universe/hypergrid-integrated-demo"
 
 [[repo]]
-url = "https://github.com/mirrorworld-universe/mpc-hackathon"
+url = "https://github.com/mirrorworld-universe/hypergrid-ssn"
 
 [[repo]]
 url = "https://github.com/mirrorworld-universe/odyssey-campaign"
 
 [[repo]]
-url = "https://github.com/mirrorworld-universe/solana-summer-2022"
+url = "https://github.com/mirrorworld-universe/rush-quickstart"
 
 [[repo]]
-url = "https://github.com/mirrorworld-universe/sonic-bridge-validator"
+url = "https://github.com/mirrorworld-universe/solana-summer-2022"
 
 [[repo]]
 url = "https://github.com/mirrorworld-universe/wallets.sonic.game"
